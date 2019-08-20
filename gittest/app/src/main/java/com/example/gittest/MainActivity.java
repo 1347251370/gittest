@@ -28,6 +28,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Log.d("gittest","gittest");
+        Log.d("gittest","gittest");
     }
 
     @Override
